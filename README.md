@@ -17,6 +17,9 @@ A passionate Full stack developer from India.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=atulyagarg&label=Profile%20Views&pretty=false" />
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=atulyagarg&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
